@@ -1,0 +1,8 @@
+{
+  "name": "Promise Nwanno",
+  "thisisarray": ["a", "b", "c"],
+  "thisisobj": {
+    "first": "a",
+    "second": "b"
+  }
+}
